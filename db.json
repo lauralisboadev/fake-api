@@ -1,0 +1,40 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "Mtec-PI Desenvolvimento de Sistemas",
+            "disciplinas": [
+                "PAM II", "WEB III", "BD", "IPSS", "SE", "QTS"
+            ],
+            "carga-horária": 3600
+        }, {
+            "id": 2,
+            "nome": "Mtec-N Informática",
+            "disciplinas": [
+                "PAM II", "WEB III", "BD", "IPSS", "SE", "QTS"
+            ],
+            "carga-horária": 1200
+        }, {
+            "id": 3,
+            "nome": "Mtec-N Informática para Internet",
+            "disciplinas": [
+                 "LP", "POO", "BD", "RC", "SO", "ES", "SI", "DS"
+            ],
+            "carga-horária": 1200
+        }, {
+            "id": 4,
+            "nome": "Curso Técnico Desenvolvimento de Sistemas",
+            "disciplinas": [
+                 "PAM II", "WEB III", "BD", "IPSS", "SE", "QTS"
+            ],
+            "carga-horária": 1200
+        }
+    ],
+
+    "professores":[
+        {"id":1, "nome": "Votto"},
+        {"id":2, "nome": "Heliene"},
+        {"id":3, "nome": "Alícia"},
+        {"id":4, "nome": "Daniel"}
+    ]
+}
